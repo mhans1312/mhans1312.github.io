@@ -2,3 +2,8 @@
 h1 {
   color: blue 
 }
+
+.hero {
+background-image: url(https://columbiaairport.com/wp-content/uploads/2015/12/CAE-Website-Full-Background-Texture1902x1200-9.jpg);
+background-size: cover;
+}
