@@ -13,3 +13,8 @@ height: 50px;
 border-bottom: 1px solid black;
 position: absolute;
 }
+
+li {
+  font-size: 16px;
+  font-family: "Arial", Times, serif;
+}
