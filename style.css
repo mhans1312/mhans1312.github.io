@@ -2,6 +2,6 @@ html {
   background-color: #B0E0E6
 }
 
-h1 {
-  text-align: center;
+h2 {
+  border: 3px solid black;
 }
