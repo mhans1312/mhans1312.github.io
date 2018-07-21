@@ -2,6 +2,9 @@ html {
   background-color: #B0E0E6
 }
 
-h2 {
-  border: 3px solid black;
+.line {
+width: 112px;
+height: 47px;
+border-bottom: 1px solid black;
+position: absolute;
 }
