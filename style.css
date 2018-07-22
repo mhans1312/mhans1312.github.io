@@ -27,4 +27,5 @@ p {
 img {
   border: 1px;
   float: right;
+  border-radius: 8px;
 }
