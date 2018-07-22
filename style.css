@@ -8,6 +8,12 @@ div.container {
   border: 1px solid black;
 }
 
+img {
+  border: 1px;
+  float: right;
+  border-radius: 8px;
+}
+
 h2 {
   font-size: 28px;
   font-family: "Helvetica", Times, serif;
@@ -30,8 +36,4 @@ p {
   font-family: "Arial", Times, serif;
 }
 
-img {
-  border: 1px;
-  float: right;
-  border-radius: 8px;
-}
+
