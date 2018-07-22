@@ -9,7 +9,7 @@ div.container {
 
 div.container img {
   border: 1px;
-  position: left;
+  position: right;
   border-radius: 8px;
 }
 
