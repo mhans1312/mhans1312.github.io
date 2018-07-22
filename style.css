@@ -7,7 +7,7 @@ div.container {
   margin: auto;
 }
 
-img {
+div.container img {
   border: 1px;
   float: right;
   border-radius: 8px;
