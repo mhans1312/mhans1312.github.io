@@ -4,7 +4,7 @@ html {
 
 div.container {
   max-width: 500px;
-  margin: auto;
+  margin: left;
 }
 
 div.container img {
