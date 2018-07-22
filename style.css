@@ -5,7 +5,6 @@ html {
 div.container {
   max-width: 500px;
   margin: auto;
-  border: 1px solid black;
 }
 
 img {
