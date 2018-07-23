@@ -13,6 +13,7 @@ div.container img {
   top: 0px;
   right: 300px;
   border-radius: 8px;
+  overflow: hidden;
 }
 
 h2 {
