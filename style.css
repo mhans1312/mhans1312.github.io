@@ -9,11 +9,7 @@ div.container {
 
 div.container img {
   border: 1px;
-  position: fixed;
-  top: 0px;
-  right: 300px;
   border-radius: 8px;
-  overflow: hidden;
 }
 
 h2 {
