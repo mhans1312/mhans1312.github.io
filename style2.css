@@ -4,5 +4,13 @@ body{
 }
 
 h2{
- color: red
+ color: red;
+}
+
+p{
+ color: white;
+}
+
+.supers{
+ color: #bada55
 }
